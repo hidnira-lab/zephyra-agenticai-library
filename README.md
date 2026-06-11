@@ -165,12 +165,10 @@ zephyra-agenticai-library/
 
 | Role | Responsibility |
 |------|---------------|
-| Team Lead | Project coordination, architecture decisions |
-| Developer | Feature implementation |
-| Developer | Feature implementation |
-| Developer | UI/UX & frontend implementation |
-
-> ✏️ *Update this table with actual names and roles.*
+| Team Lead | Hidayat Nur Hijrah |
+| Developer | Fertika Indri Dhamaningrum |
+| Developer | Khaliza Zarra Hayatha Setyo |
+| Developer | Khayyiratri Anindita |
 
 ---
 
