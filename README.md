@@ -83,10 +83,10 @@
 
 ### Current Progress
 
-| Phase | Description | Plans | Status |
-|-------|-------------|-------|--------|
-| 1 | App Foundation & Roles | 0 / 3 | 🟡 In Progress |
-| 2 | Librarian Catalog Management | 0 / 2 | ⚪ Not Started |
+| Phase | Description | Plans | Status        |
+|-------|-------------|-------|---------------|
+| 1 | App Foundation & Roles | 3 / 3 | 🟡 Complete   |
+| 2 | Librarian Catalog Management | 1 / 2 | ⚪ In Progress |
 | 3 | Student Catalog Discovery | 0 / 2 | ⚪ Not Started |
 | 4 | Borrow Request Workflow | 0 / 3 | ⚪ Not Started |
 | 5 | Returns, Overdue Tracking & Dashboard | 0 / 3 | ⚪ Not Started |
